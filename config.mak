@@ -30,5 +30,5 @@ GMP_VER = 6.2.1
 MPC_VER = 1.2.1
 MPFR_VER = 4.1.0
 
-# UOS专业版目前kernel是这个版本
-LINUX_VER = 4.19.0
+# UOS专业版目前kernel是4.19.0
+LINUX_VER = headers-4.19.88
